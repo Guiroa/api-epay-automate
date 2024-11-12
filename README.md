@@ -9,9 +9,9 @@ Clona el repositorio e instala las dependencias:
 ## Clonar repo
 git clone <URL_DEL_REPOSITORIO>
 ## instalar dependencias
-Cambiate a la carpeta cypress
-cd api-epay-automate
-Instala dependencias
+Cambiate a la carpeta api-epay-automate con el siguiente comando:  
+cd api-epay-automate  
+Instala dependencias con el comando:  
 npm install
 
 # Configuración del archivo csv
