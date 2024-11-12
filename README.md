@@ -2,6 +2,15 @@
 
 Este es un proyecto de pruebas automatizadas en Cypress.
 
+# Pre-requisitos
+Es necesario tener node js instalado en tu máquina  
+sino lo tienes puedes descargar en el siguiente enalace https://nodejs.org  
+Después de instalar node debes instalar cypress utilizando los siguientes comandos  
+## npm init -y  
+Este comando inicializa el proyecto y crea un archivo package.json  
+## npm install cypress --save-dev
+Este comando instala Cypress como dependencia de desarrollo
+
 ## Instalación
 
 Clona el repositorio e instala las dependencias:
