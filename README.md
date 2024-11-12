@@ -17,3 +17,6 @@ npm install
 # Ejecución de las pruebas
 en la terminal: 
 npx cypress open
+# Configuración del archivo csv
+Llena el archivo csv con los datos de prueba, tarjeta, id, etc.
+las ultimas dos columnas del csv son la llave del api generada en el portal de n1co clientId-clientSecret
