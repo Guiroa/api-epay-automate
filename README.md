@@ -39,7 +39,7 @@ Se te mostrarán en pantalla los archivos disponibles para ser ejecutados, debes
 
 
 # Api payments
-Se a agregado un script de pruebas para el api de payments, para poder utilizarlo se agregó un segundo csv llamado dataPayments.csv en el cual hay que llenar los datos previos a lanzar la prueba los valores a configurar son los siguientes: client_id,client_secret,trids,name,card_number,expirationDate,customerId,email,phoneNumber,amount, todos deben contener valores válidos para el correcto funcionamiento del script, una vez llenos el script realiza lo siguiente:
+Se a agregado un script de pruebas para el api de payments, para poder utilizarlo se agregó un segundo csv llamado dataPayments.csv en el cual hay que llenar los datos previos a lanzar la prueba los valores a configurar son los siguientes: client_id, client_secret, trids, name, card_number, expirationDate, customerId, email, phoneNumber, amount, todos deben contener valores válidos para el correcto funcionamiento del script, una vez llenos el script realiza lo siguiente:
 - Lee el archivo csv y lo recorre línea por línea puede contener n líneas
 - Toma el client id y client secret del csv para obtener un token de authenticación
 - Con el token obtenido, lee los datos necesarios para tokenizar una tarjeta y procede a realizar la tonkenización
