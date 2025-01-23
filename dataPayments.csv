@@ -1,2 +1,3 @@
-client_id,client_secret
-rQJbQ2efdEE,Ubq8c8Mecdi96uRSKus8w8H5WY
+client_id,client_secret,trids,name,card_number,expirationDate,customerId,email,phoneNumber,amount
+rQJbQ2efdEE,Ubq8c8Mecdi96uRSKus8w8H5WY,true,Rollffin Guiroa,4000000000002701,02/29,IZyTLLXZy2,rolfin.guiroa@n1co.com,+50377202044,1
+rQJbQ2efdEE,Ubq8c8Mecdi96uRSKus8w8H5WY,false,Rollffin Guiroa,4000000000002701,02/29,IZyTLLXZy2,rolfin.guiroa@n1co.com,+50377202044,10
